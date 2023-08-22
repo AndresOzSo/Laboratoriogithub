@@ -1,3 +1,3 @@
 # Laboratoriogithub
-Primer trabajo
-Andres
+Santiago Trenado 
+A01029355
